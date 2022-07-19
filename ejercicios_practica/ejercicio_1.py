@@ -22,3 +22,11 @@ numero_2 = 7
 # print(....)
 
 # Repita el procedimiento para realizar la resta
+
+suma = numero_1 + numero_2
+
+print('el resultado de sumar numero_1 y numero_2 es', suma)
+
+resta = numero_1 - numero_2
+
+print ('el resultado de restar numero_1 y numero_2 es', resta)
